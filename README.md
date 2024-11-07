@@ -3,16 +3,16 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00008B&size=35&center=true&vCenter=true&width=1000&lines=Hi,+My+name+is+Cezar+Mutran+Filho;I'm+from+Brazil;I'm+Graduating+Computer+Science;Be+Welcome!)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=czr125&show_icons=true&count_private=true&hide_border=true&title_color=FFFFFF&icon_color=4682B4&text_color=D3D3D3&bg_color=0d1117" alt="Cezar Mutran github stats"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=czr125&layout=compact&hide_border=true&title_color=FFFFFF&text_color=D3D3D3&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=czrmutran&show_icons=true&count_private=true&hide_border=true&title_color=FFFFFF&icon_color=4682B4&text_color=D3D3D3&bg_color=0d1117" alt="Cezar Mutran github stats"/> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=czrmutran&layout=compact&hide_border=true&title_color=FFFFFF&text_color=D3D3D3&bg_color=0d1117" />
 </div>
 <br/>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=czr125&bg_color=0d1117&color=ffffff&line=0011ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=czrmutran&bg_color=0d1117&color=ffffff&line=0011ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{czr125}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{czrmutran}/count.svg" /></p> 
 <br>
 </div>
 
