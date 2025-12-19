@@ -10,9 +10,7 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=czrmutran&bg_color=0d1117&color=ffffff&line=0011ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<div align="center">
 ![Profile views](https://counter.kuber.studio/czrmutran/dark/count.svg)
-</div>
 
 <div align="center">
 <a href="https://instagram.com/czr_mutran" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
